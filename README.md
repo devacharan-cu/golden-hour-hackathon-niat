@@ -6,7 +6,7 @@ Real-time emergency coordination for the first critical hour. A reporter describ
 
 Demonstration system with invented hospital data. In a real emergency in India, call 112.
 
-## Whose move is it?
+## Whose move is it??
 
 Every case is a hand-off between four roles: reporter, dispatcher, crew, hospital. The **Relay Track** at the top of every screen shows who holds the case. Whoever must act sees **Your move**; everyone else sees who they are waiting on.
 
